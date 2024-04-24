@@ -31,6 +31,7 @@ Full Stack Developer with 3 years of experience in Java, JavaScript, and framewo
 - **Cloud:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
 - **Concepts:** Agile Methodology, RESTful APIs, Microservices, Web Services, Multithreading, Software Development Life Cycle (SDLC), System Design, CI/CD, Testing, ORM, JPA
 
+<div align="left">
 
 ###
 <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
