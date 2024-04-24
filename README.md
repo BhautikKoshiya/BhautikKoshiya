@@ -15,17 +15,9 @@ Full Stack Developer with 3 years of experience in Java, JavaScript, and framewo
 - 🚀 I'm passionate about using my skills to solve challenging problems with a direct **real-world impact.**
   
 #### ⚒️ Tech stack 
-<!-- - **Cloud:** AWS, Azure
-- **Java, Python, JavaScript, TypeScript, HTML, CSS, C/C++, SQL**
-- **Angular, ReactJS, NextJS, NodeJS, Express, SpringBoot, Spring MVC, .NET**
-- **MySQL, MongoDB, PostgreSQL, RDS, DynamoDB, Firebase**
-- **Agile SCRUM Methodology, Object-oriented Design (OOPS), SOLID Principles**
-- **Git, GitLab CI/CD, Postman, Linux, Redux, HTTP Toolkit, JIRA, Confluence**
-- **Selenium, JUnit** -->
-
 - **Certifications:** AWS Certified Solutions Architect - Associate
 - **Languages:** Java, TypeScript, JavaScript, C#, C++, Python, SQL, HTML, CSS
-- **Frameworks: **Spring Boot, Angular, Spring MVC, React.js, Express, Node.js, Hibernate, Flutter
+- **Frameworks:** Spring Boot, Angular, Spring MVC, React.js, Express, Node.js, Hibernate, Flutter
 - **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB, DynamoDB, S3
 - **Dev Tools:** Docker, Kubernetes, Git, Postman, Junit, JIRA, Mockito, Selenium, Maven, Gradle, Jenkins
 - **Cloud:** Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP)
